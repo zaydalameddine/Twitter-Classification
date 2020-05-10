@@ -1,4 +1,4 @@
-# Classifying Twitter Tweets
+# Twitter-Classification
  
 All data used in this project is from Twitter through Codecademy 
 
